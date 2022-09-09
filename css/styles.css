@@ -1,0 +1,22 @@
+header {
+    border: 1px solid darkred;
+    margin: 10px;
+}
+
+.logo {
+    height: 100px;
+    margin-right: 50px;
+}
+
+.header {
+    display: inline-block;
+    font-size: 100px;
+    margin: 0%;
+    vertical-align: top;
+    color: darkred;
+}
+
+main {
+    border: 1px solid darkgreen;
+}
+
