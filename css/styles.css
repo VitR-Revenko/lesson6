@@ -4,7 +4,7 @@ header {
 }
 
 .logo {
-    height: 100px;
+    width: 246px;
     margin-right: 50px;
 }
 
@@ -18,5 +18,33 @@ header {
 
 main {
     border: 1px solid darkgreen;
+    padding: 10px;
 }
 
+.card {
+    display: inline-block;
+    width: 200px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    color: black;
+    border: 1px solid blue;
+    vertical-align: top;
+    background: #E0E0E0;
+}
+
+img {
+    width: 130px;
+    
+}
+
+figcaption {
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+article p {
+    text-align: center;
+    font-size: 14px;
+}
